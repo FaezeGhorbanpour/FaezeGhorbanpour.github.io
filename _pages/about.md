@@ -24,14 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Hi!   
 
-I am a **PhD student at [TUM Munich](https://www.cit.tum.de/cit/startseite/)**, supervised by [**Prof. Alexander Fraser**](https://alexfraser.github.io/). I am also an **NLP researcher at [CIS, LMU Munich](https://www.cis.uni-muenchen.de/)** and affiliated with the [**Munich Center for Machine Learning (MCML)**](https://mcml.ai/).
+## Hi there! 👋 
 
-My current research focuses on **efficient transfer learning for hate speech detection**, with broader interests in **efficient language models, low-resource and multilingual NLP, applied NLP**, and **computational social science**.
+I'm a **PhD student at [TUM Munich](https://www.cit.tum.de/cit/startseite/)**, where I'm fortunate to be supervised by [**Prof. Alexander Fraser**](https://alexfraser.github.io/). I also work as an **NLP researcher at [CIS, LMU Munich](https://www.cis.uni-muenchen.de/)** and am affiliated with the [**Munich Center for Machine Learning (MCML)**](https://mcml.ai/).
 
-As an early-career researcher, I am eager to explore a wide range of topics in **natural language processing and large language models**, and I'm always open to new ideas and collaborations.
+My research centers on making NLP systems more **efficient**, **inclusive**, and **applicable to real-world problems**. My current research focuses on **efficient transfer learning for generalizable harmful content detection**—a challenging and socially impactful task. I'm especially interested in topics such as **efficient and compact language models**, **low-resource and multilingual NLP**, and the intersection of **language technology and social impact**.
 
-**Feel free to get in touch if you're interested in working together.**
+These interests are tightly connected by a common goal: enabling robust, fair, and accessible NLP across diverse languages and domains.
+
+If any of this resonates with you—or if you're just curious about my work—feel free to reach out.  
+**I’m always open to new collaborations and conversations!** 🚀
+
 
 
