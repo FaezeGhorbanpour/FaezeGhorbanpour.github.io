@@ -63,7 +63,7 @@ ninja.data = [{
           title: '🎉 Our paper “Differentiating Emigration and Return Migration” has been accepted at ICWSM...',
           description: "",
           section: "News",},{id: "news-our-paper-can-prompting-llms-unlock-hate-speech-detection-across-languages-a-zero-shot-and-few-shot-study-has-been-accepted-to-woah-at-acl-2025",
-          title: '🎉Our paper ‘Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot...',
+          title: '🎉Our paper “Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot...',
           description: "",
           section: "News",},{
       id: 'light-theme',
