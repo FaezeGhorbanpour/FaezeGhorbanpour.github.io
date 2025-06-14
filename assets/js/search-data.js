@@ -53,7 +53,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-the-poster-for-label-specific-soft-prompt-tuning-at-the-2024-all-hands-meeting-of-the-national-ai-centers-in-dresden-germany",
           title: 'I will be presenting the poster for “Label-Specific Soft Prompt Tuning” at the...',
           description: "",
-          section: "News",},{id: "news-i-have-moved-to-the-tum-campus-in-heilbronn-and-after-a-year-and-two-months-as-a-phd-student-at-lmu-munich-i-am-now-a-phd-student-at-tum-munich",
+          section: "News",},{id: "news-i-have-moved-to-the-tum-campus-in-heilbronn-and-after-a-year-and-two-months-as-a-phd-student-at-lmu-munich-i-am-now-a-phd-student-at-tu-munich",
           title: 'I have moved to the TUM campus in Heilbronn, and after a year...',
           description: "",
           section: "News",},{id: "news-our-paper-label-specific-representation-and-knowledge-transfer-for-harmful-content-detection-has-been-accepted-at-naacl-2025",
@@ -61,6 +61,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-differentiating-emigration-and-return-migration-has-been-accepted-at-icwsm-2025-this-work-is-from-my-research-visit-at-mpidr-rostock-germany",
           title: '🎉 Our paper “Differentiating Emigration and Return Migration” has been accepted at ICWSM...',
+          description: "",
+          section: "News",},{id: "news-our-paper-can-prompting-llms-unlock-hate-speech-detection-across-languages-a-zero-shot-and-few-shot-study-has-been-accepted-to-woah-at-acl-2025",
+          title: '🎉Our paper ‘Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot...',
           description: "",
           section: "News",},{
       id: 'light-theme',
