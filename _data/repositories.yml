@@ -5,4 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - FaezeGhorbanpour/LabelSoftPromptTuning
+  - FaezeGhorbanpour/DataEfficientDetection
+  - FaezeGhorbanpour/NationalityDetection
+  - FaezeGhorbanpour/MultilingualHateSpeechPrompting
   - Aalto-CRAI-CIS/Acts-in-crisis-narratives
