@@ -28,14 +28,13 @@ I supervise student projects related to Natural Language Processing, with a focu
 #### Teaching Involvement
 
 - **Spring 2025 – TU Munich**  
-  *NLP Praktikum* — Instructor: Prof. Alexander Fraser
+  *NLP Praktikum* — taught by Prof. Alexander Fraser
 
 - **Winter 2024 – TU Munich**  
-  *NLP Praktikum* — Instructor: Prof. Alexander Fraser
+  *NLP Praktikum* — taught by Prof. Alexander Fraser
 
 - **Winter 2023 – LMU Munich**  
-  *Seminar: Large Language Models* — Instructor: Prof. Alexander Fraser
+  *Seminar: Large Language Models* — taught by Prof. Alexander Fraser
 
 - **Winter 2023 – LMU Munich**  
-  *Seminar: Information Extraction* — Instructor: Prof. Alexander Fraser
-
+  *Seminar: Information Extraction* — taught by Prof. Alexander Fraser
