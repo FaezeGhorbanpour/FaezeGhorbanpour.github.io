@@ -1,11 +1,41 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Teaching & Supervision
 description: 
 nav: true
 nav_order: 6
 ---
 
-We have several open **Master's and Bachelor's thesis projects** in our group (including some with me). Don't hesitate to check them out on [this page](https://www.cs.cit.tum.de/dast/lehre/projects/)!  
+### Teaching and Supervision
+
+I supervise student projects related to Natural Language Processing, with a focus on fairness, content moderation, and transfer learning. Below is an overview of my current and past supervision and teaching experience.
+
+#### Current and Past Supervised Theses
+
+- **Spring 2025 – TU Munich**  
+  *Master’s Thesis:* Mitigating Temporal Bias in Hate Speech Detection
+
+  *Bachelor’s Thesis:* Nationality Bias in Multilingual LLMs
+
+
+- **Winter 2025 – TU Munich**
+
+  For more details and current thesis offerings, please visit the [DAST Projects & Thesis Topics page](https://www.cs.cit.tum.de/dast/lehre/projects/).
+
+  **Note:** All bachelor’s thesis spots for the upcoming semester are already filled.
+
+#### Teaching Involvement
+
+- **Spring 2025 – TU Munich**  
+  *NLP Praktikum* — Instructor: Prof. Alexander Fraser
+
+- **Winter 2024 – TU Munich**  
+  *NLP Praktikum* — Instructor: Prof. Alexander Fraser
+
+- **Winter 2023 – LMU Munich**  
+  *Seminar: Large Language Models* — Instructor: Prof. Alexander Fraser
+
+- **Winter 2023 – LMU Munich**  
+  *Seminar: Information Extraction* — Instructor: Prof. Alexander Fraser
 
