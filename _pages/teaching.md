@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-### Teaching and Supervision
-
 I supervise student projects related to Natural Language Processing, with a focus on fairness, content moderation, and transfer learning. Below is an overview of my current and past supervision and teaching experience.
 
 #### Current and Past Supervised Theses
