@@ -23,7 +23,7 @@ I supervise student projects related to Natural Language Processing, with a focu
 
   For more details and current thesis offerings, please visit the [DAST Projects & Thesis Topics page](https://www.cs.cit.tum.de/dast/lehre/projects/).
 
-  **Note:** All bachelor’s thesis spots for the upcoming semester are already filled.
+  **Note:** My bachelor’s thesis spots for the upcoming semester are already filled.
 
 #### Teaching Involvement
 
