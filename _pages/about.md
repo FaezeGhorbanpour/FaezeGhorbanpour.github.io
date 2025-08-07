@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Machine Learning Researcher
+subtitle: PhD Student / NLP Researcher
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
 
 ## Hi! 
 
-I'm a **PhD student at [TU Munich](https://www.cit.tum.de/cit/startseite/)**, where I'm fortunate to be supervised by [**Prof. Alexander Fraser**](https://alexfraser.github.io/). I also work as an **NLP researcher at [CIS, LMU Munich](https://www.cis.uni-muenchen.de/)** and am affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai/)**.
+I'm Faeze, a **PhD student at [TU Munich](https://www.cit.tum.de/cit/startseite/)**, under supervision of [**Prof. Alexander Fraser**](https://alexfraser.github.io/). I also work as an **NLP researcher at [CIS, LMU Munich](https://www.cis.uni-muenchen.de/)** and am affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai/)**.
 
 My research centers on making NLP systems more **efficient**, **inclusive**, and **applicable to real-world problems**. My current research focuses on **efficient transfer learning for generalizable harmful content detection**—a challenging and socially impactful task. I'm especially interested in topics such as **efficient and compact language models**, **low-resource and multilingual NLP**, and the intersection of **language technology and social impact**.
 These interests are tightly connected by a common goal: enabling robust, fair, and accessible NLP across diverse languages and domains.
