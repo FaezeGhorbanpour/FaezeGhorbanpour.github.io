@@ -7,7 +7,7 @@ subtitle: PhD Student / NLP Researcher
 profile:
   align: right
   image: faeze_3.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:  
 
 social: true # includes social icons at the bottom of the page
