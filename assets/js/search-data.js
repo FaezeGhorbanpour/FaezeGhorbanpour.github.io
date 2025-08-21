@@ -58,6 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-can-prompting-llms-unlock-hate-speech-detection-across-languages-a-zero-shot-and-few-shot-study-has-been-accepted-to-woah-at-acl-2025",
           title: '🎉Our paper “Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot...',
           description: "",
+          section: "News",},{id: "news-our-work-data-efficient-hate-speech-detection-via-cross-lingual-nearest-neighbor-retrieval-with-limited-labeled-data-has-been-accepted-for-publication-at-emnlp-2025",
+          title: '🎉 Our work “Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor Retrieval with...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
