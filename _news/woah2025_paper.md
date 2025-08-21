@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉Our paper **"Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study"** has been accepted to WOAH at **ACL 2025**! 🥳
+🎉 Our paper **"Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study"** has been accepted to WOAH at **ACL 2025**! 🥳
