@@ -55,13 +55,23 @@
   ],
   "work": [
     {
+      "name": "TUM School of Computation, Information and Technology",
+      "position": "Machine Learning Researcher",
+      "location": "Munich, Germany",
+      "url": "https://www.cit.tum.de/en/cit/home/",
+      "startDate": "2026",
+      "endDate": "...",
+      "summary": "Doing research on Multilingual NLP, Efficient and Generalizable Transfer Learning, and Large Language Models",
+      "highlights": []
+    },
+    {
       "name": "Center for Information and Language Processing",
       "position": "Machine Learning Researcher",
       "location": "Munich, Germany",
       "url": "https://www.cis.uni-muenchen.de/",
       "startDate": "2023",
-      "endDate": "20..",
-      "summary": "Doing research on NLP, Transfer Learning, Efficient LM, and Hate Speech Detection",
+      "endDate": "2026",
+      "summary": "Conducted research on NLP, Transfer Learning, Efficient LM, and Content Moderation",
       "highlights": []
     },
     {
