@@ -20,7 +20,7 @@ I supervise student projects in **Natural Language Processing**, focusing on **f
   **Note: I am currently not accepting additional thesis students.**
 
 - **Winter 2025 – TU Munich**  
-  - **Bachelor’s Thesis:** Fine-Grained Multi-Attribute Simulation of Subjective Task Annotations Using Large Language Models
+  - **Bachelor’s Thesis:** Fine-Grained Multi-Attribute Simulation of Subjective Task Annotations Using LLMs
   - **Bachelor’s Thesis:** Large Language Models on Persian Literature: A Category-Wise Evaluation of Exam Questions
   - **Bachelor’s Thesis:** Explaining Intermediate Training Success in Hate Speech Detection via Dataset Similarity 
   
