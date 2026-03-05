@@ -62,7 +62,7 @@ ninja.data = [{
           title: '🎉 Our work “Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor Retrieval with...',
           description: "",
           section: "News",},{id: "news-excited-to-be-visiting-prof-anders-søgaard-s-nlp-group-at-the-university-of-copenhagen-looking-forward-to-the-collaboration-and-the-project-we-will-be-working-on-together",
-          title: 'Excited to be visiting Prof. Anders Søgaard’s NLP group at the University of...',
+          title: '🚀 Excited to be visiting Prof. Anders Søgaard’s NLP group at the University...',
           description: "",
           section: "News",},{
       id: 'light-theme',
