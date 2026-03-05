@@ -17,7 +17,7 @@ I supervise student projects in **Natural Language Processing**, focusing on **f
   - **Master’s Thesis:** Multilingual Harmful Content Detection via Agents Debate
   - **Master’s Thesis:** Expert Agents to Generalize Harmful Content Detection 
 
-  **Note:** My thesis supervision spots are currently filled up.
+  **Note: I am currently not accepting additional thesis students.**
 
 - **Winter 2025 – TU Munich**  
   - **Bachelor’s Thesis:** Fine-Grained Multi-Attribute Simulation of Subjective Task Annotations Using Large Language Models
