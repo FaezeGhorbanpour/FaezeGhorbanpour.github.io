@@ -23,3 +23,67 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* ---- Custom overrides ---- */
+
+// Slightly larger profile photo on the about page
+@media (min-width: 576px) {
+  .profile {
+    width: 34%;
+  }
+}
+
+// Projects page: 2x2 card grid
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+
+  @media (max-width: 576px) {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.4rem 1.5rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 10px;
+    background-color: var(--global-card-bg-color);
+    color: var(--global-text-color);
+    text-decoration: none;
+    transition:
+      border-color 0.2s ease,
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+
+    &:hover {
+      text-decoration: none;
+      color: var(--global-text-color);
+      border-color: var(--global-theme-color);
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    }
+
+    h3 {
+      margin: 0 0 0.6rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.35;
+    }
+
+    p {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--global-text-color-light);
+    }
+
+    .project-venue {
+      margin-top: auto;
+      padding-top: 0.9rem;
+      font-size: 0.8rem;
+      color: var(--global-theme-color);
+    }
+  }
+}
