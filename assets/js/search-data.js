@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -23,8 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching-amp-supervision",
-          title: "Teaching &amp; Supervision",
+        },{id: "nav-supervision",
+          title: "Supervision",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/supervision/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -56,6 +70,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-excited-to-be-visiting-prof-anders-søgaard-s-nlp-group-at-the-university-of-copenhagen-looking-forward-to-the-collaboration-and-the-project-we-will-be-working-on-together",
           title: '🚀 Excited to be visiting Prof. Anders Søgaard’s NLP group at the University...',
+          description: "",
+          section: "News",},{id: "news-three-papers-accepted-to-emnlp-2026-on-the-sensitivity-of-instruction-tuned-llms-to-harmful-sentences-in-long-inputs-main-latent-space-intervention-for-cross-lingual-factual-consistency-findings-and-attribute-based-diagnosis-of-llm-alignment-with-hate-speech-annotations-findings",
+          title: '🎉 Three papers accepted to EMNLP 2026! On the Sensitivity of Instruction-tuned LLMs...',
           description: "",
           section: "News",},{
       id: 'light-theme',
