@@ -38,29 +38,31 @@ $max-content-width: {{ site.max_width }};
   object-fit: cover;
 }
 
-// About page: research-threads list
-// clear: left guarantees this always starts below the floated photo,
-// so the markers can never land on top of it.
+// A bit more breathing room between the floated photo and the text beside it
+.profile.float-left {
+  margin-right: 1.5rem;
+}
+
+// About page: research-threads list — stays beside the photo, in the
+// space to its right. No negative text-indent here: that was pulling
+// the marker back past the float's margin and onto the photo.
 .research-threads {
-  clear: left;
   list-style: none;
   padding-left: 0;
   margin: 1.3rem 0;
 
   li {
-    padding: 0.4rem 0 0.4rem 1.5rem;
-    text-indent: -1.5rem;
+    margin: 0.4rem 0;
 
     &::before {
       content: "";
       display: inline-block;
       width: 0.45rem;
       height: 0.45rem;
-      margin-right: 0.8rem;
+      margin-right: 0.7rem;
       background-color: var(--global-theme-color);
       transform: rotate(45deg);
       vertical-align: middle;
-      text-indent: 0;
     }
   }
 }
