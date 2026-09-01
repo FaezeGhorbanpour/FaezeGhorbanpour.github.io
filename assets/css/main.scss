@@ -33,6 +33,35 @@ $max-content-width: {{ site.max_width }};
   }
 }
 
+// About page: research-threads list
+.research-threads {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.3rem 0;
+
+  li {
+    position: relative;
+    padding: 0.65rem 0 0.65rem 1.7rem;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:first-child {
+      border-top: 1px solid var(--global-divider-color);
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.1rem;
+      top: 1.15rem;
+      width: 0.5rem;
+      height: 0.5rem;
+      background-color: var(--global-theme-color);
+      border-radius: 1px;
+      transform: rotate(45deg);
+    }
+  }
+}
+
 // Projects page: 2x2 card grid
 .project-grid {
   display: grid;

@@ -32,6 +32,7 @@ During my PhD my research has developed along **three threads**:
 - **Alignment and post-training** — adapting language models for **tasks where human judgments genuinely disagree**, where there is *no single ground truth* to fine-tune against.
 - **Multilingual NLP** — studying how models represent meaning across languages and how to **steer their internal representations toward more consistent behavior**.
 - **Evaluation and safety** — measuring how dependable model outputs are and **how closely model judgments track human ones**.
+{: .research-threads}
 
 A common thread across all of it is **efficiency**: *reaching strong transfer while training only a small fraction of a model's parameters*.
 
