@@ -20,5 +20,4 @@ nav_order: 7
 
 ### Earlier Roles
 
-- **Teaching Assistant**, seminars on Large Language Models and Information Extraction &mdash; LMU Munich, 2023&ndash;2024.
 - **Tutor**, Advanced Machine Learning, Information Retrieval, and Databases &mdash; Sharif University of Technology, 2018&ndash;2020.
