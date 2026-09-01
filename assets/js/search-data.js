@@ -71,8 +71,8 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-be-visiting-prof-anders-søgaard-s-nlp-group-at-the-university-of-copenhagen-looking-forward-to-the-collaboration-and-the-project-we-will-be-working-on-together",
           title: '🚀 Excited to be visiting Prof. Anders Søgaard’s NLP group at the University...',
           description: "",
-          section: "News",},{id: "news-three-papers-accepted-to-emnlp-2026-on-the-sensitivity-of-instruction-tuned-llms-to-harmful-sentences-in-long-inputs-main-latent-space-intervention-for-cross-lingual-factual-consistency-findings-and-attribute-based-diagnosis-of-llm-alignment-with-hate-speech-annotations-findings",
-          title: '🎉 Three papers accepted to EMNLP 2026! On the Sensitivity of Instruction-tuned LLMs...',
+          section: "News",},{id: "news-hat-trick-three-papers-accepted-to-emnlp-2026-one-in-the-main-conference-two-in-findings",
+          title: '🎉 Hat-trick! Three papers accepted to EMNLP 2026 — one in the Main...',
           description: "",
           section: "News",},{
       id: 'light-theme',
