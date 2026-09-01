@@ -40,24 +40,23 @@ $max-content-width: {{ site.max_width }};
   margin: 1.3rem 0;
 
   li {
-    position: relative;
-    padding: 0.65rem 0 0.65rem 1.7rem;
-    border-bottom: 1px solid var(--global-divider-color);
+    padding: 0.45rem 0 0.45rem 1.5rem;
+    text-indent: -1.5rem;
 
-    &:first-child {
+    & + li {
       border-top: 1px solid var(--global-divider-color);
     }
 
     &::before {
       content: "";
-      position: absolute;
-      left: 0.1rem;
-      top: 1.15rem;
-      width: 0.5rem;
-      height: 0.5rem;
+      display: inline-block;
+      width: 0.45rem;
+      height: 0.45rem;
+      margin-right: 0.8rem;
       background-color: var(--global-theme-color);
-      border-radius: 1px;
       transform: rotate(45deg);
+      vertical-align: middle;
+      text-indent: 0;
     }
   }
 }
