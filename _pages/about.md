@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 
-I am a **PhD candidate in Computer Science** at the **[Technical University of Munich](https://www.tum.de/)**, advised by **[Prof. Alexander Fraser](https://alexfraser.github.io/)** and affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai/)**. My work focuses on the **Efficient and Generalizable Transfer Learning**, **post-training of large language models**, **multilingual NLP**, and model **applied NLP**. I started my PhD at LMU Munich in 2023 and moved to TUM with my group in 2026.
+I am a **PhD candidate in Computer Science** at the **[Technical University of Munich](https://www.tum.de/)**, advised by **[Prof. Alexander Fraser](https://alexfraser.github.io/)** and affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai/)**. My work focuses on the **Efficient and Generalizable Transfer Learning**, **post-training of LLMs**, **multilingual NLP**, and **applied NLP**. I started my PhD at LMU Munich in 2023 and moved to TUM with my group in 2026.
 
 During my PhD my research has developed along **three threads**:
 
