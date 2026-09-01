@@ -1,9 +1,30 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EMNLP":
+  url: https://2026.emnlp.org/
+  color: "#b31b1b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NAACL":
+  url: https://naacl.org/
+  color: "#2b6cb0"
 
-"Vision":
-  color: "#009f36"
+"WOAH":
+  url: https://www.workshopononlineabuse.com/
+  color: "#6b46c1"
+
+"ICWSM":
+  url: https://www.icwsm.org/
+  color: "#2f855a"
+
+"ASONAM":
+  color: "#c05621"
+
+"CoNLL":
+  url: https://www.conll.org/
+  color: "#4a5568"
+
+"SNAM":
+  url: https://www.springer.com/journal/13278
+  color: "#00695c"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#6e7681"
