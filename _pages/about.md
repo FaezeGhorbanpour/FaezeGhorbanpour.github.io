@@ -38,7 +38,7 @@ A common thread across all of it is **efficiency**: *reaching strong transfer wh
 
 During my PhD I was a **guest researcher at the [University of Copenhagen](https://di.ku.dk/english/)**, working with **[Prof. Anders Søgaard](https://anderssoegaard.github.io/)**, and earlier at the **Max Planck Institute for Demographic Research**. Before my doctoral studies I spent **several years as an NLP Scientist**, building and deploying production NLP systems.
 
-> **I am on the job market for research and applied scientist roles in NLP and LLMs, and open to research internships**. Feel free to [reach out](mailto:faeze.ghorbanpour@tum.de).
+[//]: # (> **I am on the job market for research and applied scientist roles in NLP and LLMs, and open to research internships**. Feel free to [reach out]&#40;mailto:faeze.ghorbanpour@tum.de&#41;.)
 
 
 
