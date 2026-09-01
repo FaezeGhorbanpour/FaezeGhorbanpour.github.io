@@ -26,15 +26,23 @@ $max-content-width: {{ site.max_width }};
 
 /* ---- Custom overrides ---- */
 
-// Slightly larger profile photo on the about page
+// Narrower, taller (portrait) profile photo on the about page
 @media (min-width: 576px) {
   .profile {
-    width: 34%;
+    width: 27%;
   }
 }
 
+.profile img {
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
 // About page: research-threads list
+// clear: left guarantees this always starts below the floated photo,
+// so the markers can never land on top of it.
 .research-threads {
+  clear: left;
   list-style: none;
   padding-left: 0;
   margin: 1.3rem 0;
