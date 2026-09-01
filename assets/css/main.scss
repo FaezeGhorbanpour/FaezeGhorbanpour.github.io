@@ -40,12 +40,8 @@ $max-content-width: {{ site.max_width }};
   margin: 1.3rem 0;
 
   li {
-    padding: 0.45rem 0 0.45rem 1.5rem;
+    padding: 0.4rem 0 0.4rem 1.5rem;
     text-indent: -1.5rem;
-
-    & + li {
-      border-top: 1px solid var(--global-divider-color);
-    }
 
     &::before {
       content: "";
