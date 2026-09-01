@@ -71,8 +71,8 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-be-visiting-prof-anders-søgaard-s-nlp-group-at-the-university-of-copenhagen-looking-forward-to-the-collaboration-and-the-project-we-will-be-working-on-together",
           title: '🚀 Excited to be visiting Prof. Anders Søgaard’s NLP group at the University...',
           description: "",
-          section: "News",},{id: "news-hat-trick-three-papers-accepted-to-emnlp-2026-one-in-the-main-conference-two-in-findings",
-          title: '🎉 Hat-trick! Three papers accepted to EMNLP 2026 — one in the Main...',
+          section: "News",},{id: "news-hat-trick-three-papers-accepted-to-emnlp-2026-one-in-the-main-two-in-findings",
+          title: '🎉 Hat-trick! Three papers accepted to EMNLP 2026, one in the Main, two...',
           description: "",
           section: "News",},{
       id: 'light-theme',
