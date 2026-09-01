@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Hat-trick! **Three papers accepted to EMNLP 2026** — one in the Main conference, two in Findings. 🥳
+🎉 Hat-trick! **Three papers accepted to EMNLP 2026**, one in the Main, two in Findings. 🥳
