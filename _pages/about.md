@@ -2,12 +2,12 @@
 layout: about
 title: About me
 permalink: /
-subtitle: PhD Student / NLP Researcher
+subtitle: PhD Candidate in NLP · Technical University of Munich
 
 profile:
-  align: right
-  image: faeze_3.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: new_photo.jpg
+  image_circular: true # crops the image to make it circular
   more_info:  
 
 social: true # includes social icons at the bottom of the page
@@ -25,15 +25,11 @@ latest_posts:
 ---
 
 
-## Hi! 
+I am a PhD candidate in Computer Science at the [Technical University of Munich](https://www.tum.de/), advised by [Prof. Alexander Fraser](https://alexfraser.github.io/) and affiliated with the [Munich Center for Machine Learning (MCML)](https://mcml.ai/). My work focuses on the **alignment and post-training** of large language models, **multilingual NLP**, and model **evaluation and safety**. I started my PhD at LMU Munich in 2023 and moved to TUM with my group in 2026.
 
-I'm Faeze, a **PhD student at [TU Munich](https://www.cit.tum.de/cit/startseite/)**, under supervision of [**Prof. Alexander Fraser**](https://alexfraser.github.io/). I am affiliated with the **[Munich Center for Machine Learning (MCML)](https://mcml.ai/)**.
+During my PhD my research has developed along these three threads. On alignment and post-training, I work on adapting language models for tasks where human judgments genuinely disagree, where there is no single ground truth to fine-tune against. In multilingual NLP, I study how models represent meaning across languages and how to steer those internal representations toward more consistent behavior. On evaluation and safety, I measure how dependable model outputs are and how closely model judgments track human ones. A common thread across all of it is efficiency: reaching strong transfer while training only a small fraction of a model's parameters.
 
-My research centers on making NLP systems more **efficient**, **inclusive**, and **applicable to real-world problems**. My current research focuses on **efficient transfer learning for generalizable harmful content detection**—a challenging and socially impactful task. I'm especially interested in topics such as **efficient and compact language models**, **low-resource and multilingual NLP**, and the intersection of **language technology and social impact**.
-These interests are tightly connected by a common goal: enabling robust, fair, and accessible NLP across diverse languages and domains.
-
-If any of this resonates with you—or if you're just curious about my work—feel free to reach out.  
-**I’m always open to new collaborations and conversations!** 🚀
+During my PhD I was a guest researcher at the [University of Copenhagen](https://di.ku.dk/english/), working with [Prof. Anders Søgaard](https://anderssoegaard.github.io/), and earlier at the Max Planck Institute for Demographic Research. Before my doctoral studies I spent several years as an NLP Scientist, building and deploying production NLP systems. I am currently on the job market for research and applied scientist roles in NLP and LLMs — feel free to [reach out](mailto:faeze.ghorbanpour@tum.de).
 
 
 
