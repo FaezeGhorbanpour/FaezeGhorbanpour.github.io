@@ -14,13 +14,13 @@ Selected code releases from my research. The full list is on [GitHub](https://gi
   <a class="project-card" href="https://github.com/FaezeGhorbanpour/LatentInterventionCrosslingualFactuality">
     <h3>Latent-Space Intervention for Cross-Lingual Factual Consistency</h3>
     <p>Activation-level interventions in a multilingual model's latent space that make its factual answers more consistent across languages, with no drop in accuracy.</p>
-    <span class="project-venue">Code &middot; EMNLP 2026 (Findings)</span>
+    <span class="project-venue">Code &middot; EMNLP 2026</span>
   </a>
 
   <a class="project-card" href="https://github.com/FaezeGhorbanpour/LLMsHarmSensitivityInLongInputs">
     <h3>LLM Sensitivity to Long Inputs</h3>
     <p>Experiments measuring how the safety behavior of instruction-tuned LLMs changes as inputs grow longer.</p>
-    <span class="project-venue">Code &middot; EMNLP 2026 (Main)</span>
+    <span class="project-venue">Code &middot; EMNLP 2026</span>
   </a>
 
   <a class="project-card" href="https://github.com/FaezeGhorbanpour/LabelSoftPromptTuning">

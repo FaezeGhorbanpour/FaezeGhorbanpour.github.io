@@ -18,6 +18,9 @@ nav_order: 7
 | Winter 2023 | LMU Munich  | Seminar: Large Language Models     | Prof. Alexander Fraser |
 | Winter 2023 | LMU Munich  | Seminar: Information Extraction    | Prof. Alexander Fraser |
 
-### Earlier Roles
 
-- **Tutor**, Advanced Machine Learning, Information Retrieval, and Databases &mdash; Sharif University of Technology, 2018&ndash;2020.
+
+
+[//]: # (### Earlier Roles)
+
+**Teaching Assistant**: Machine Learning, Statistical Machine Learning, Advanced Information Retrieval, and Databases Design &mdash; Sharif University of Technology, 2018&ndash;2020.
