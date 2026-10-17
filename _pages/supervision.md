@@ -13,12 +13,12 @@ I supervise bachelor's and master's theses in **Natural Language Processing**, w
 
 ### Winter 2026 &ndash; TU Munich
 
-- *Bachelor's Thesis:* Cross-Cultural Disagreement in Offensive Language Judgments &mdash; led to *[Decomposing and Predicting Annotation Disagreement in Harmful Content Across Languages](https://arxiv.org/abs/2610.18588)* (preprint)
+- *Bachelor's Thesis:* Cross-Cultural Disagreement in Offensive Language Judgments
 - *Bachelor's Thesis:* Cross-Lingual Evidence Grounding for Multilingual LLMs
 
 ### Spring 2026 &ndash; TU Munich
 
-- *Master's Thesis:* Multilingual Harmful Content Detection via Agents Debate
+- *Master's Thesis:* Human Disagreement and Checklist-Based Interpretability for Hate Speech Detection &mdash; led to *[Decomposing and Predicting Annotation Disagreement in Harmful Content Across Languages](https://arxiv.org/abs/2610.18588)* (preprint)
 - *Master's Thesis:* Expert Agents to Generalize Harmful Content Detection
 
 ### Winter 2025 &ndash; TU Munich
