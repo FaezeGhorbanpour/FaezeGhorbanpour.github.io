@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **"On the Sensitivity of Instruction-tuned LLMs to Harmful Sentences in Long Inputs"** has been accepted to the **Trustworthy AI for Good (AI4Good) Workshop @ NeurIPS 2026** in Paris! 🥳
+🎉 Our paper **"On the Sensitivity of Instruction-tuned LLMs to Harmful Sentences in Long Inputs"** will be presented at the **Trustworthy AI for Good (AI4Good) Workshop @ NeurIPS 2026** in Paris! 🥳
