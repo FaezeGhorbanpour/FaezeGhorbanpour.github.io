@@ -74,7 +74,7 @@ ninja.data = [{
           section: "News",},{id: "news-hat-trick-three-papers-accepted-to-emnlp-2026-one-in-the-main-two-in-findings",
           title: '🎉 Hat-trick! Three papers accepted to EMNLP 2026, one in the Main, two...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-the-sensitivity-of-instruction-tuned-llms-to-harmful-sentences-in-long-inputs-has-been-accepted-to-the-trustworthy-ai-for-good-ai4good-workshop-neurips-2026-in-paris",
+          section: "News",},{id: "news-our-paper-on-the-sensitivity-of-instruction-tuned-llms-to-harmful-sentences-in-long-inputs-will-be-presented-at-the-trustworthy-ai-for-good-ai4good-workshop-neurips-2026-in-paris",
           title: '🎉 Our paper “On the Sensitivity of Instruction-tuned LLMs to Harmful Sentences in...',
           description: "",
           section: "News",},{id: "news-starting-a-research-visit-at-the-university-of-edinburgh-collaborating-with-prof-mirella-lapata-looking-forward-to-the-work-ahead",
