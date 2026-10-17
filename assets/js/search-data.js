@@ -80,9 +80,6 @@ ninja.data = [{
           section: "News",},{id: "news-starting-a-research-visit-at-the-university-of-edinburgh-collaborating-with-prof-mirella-lapata-looking-forward-to-the-work-ahead",
           title: '🚀 Starting a research visit at the University of Edinburgh 🏴, collaborating with...',
           description: "",
-          section: "News",},{id: "news-two-new-preprints-out-decomposing-and-predicting-annotation-disagreement-in-harmful-content-across-languages-and-retrieval-disagreement-as-a-signal-diagnosing-and-steering-multilingual-dense-embedders",
-          title: '📄 Two new preprints out! “Decomposing and Predicting Annotation Disagreement in Harmful Content...',
-          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
