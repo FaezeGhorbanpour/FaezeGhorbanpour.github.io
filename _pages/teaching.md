@@ -11,7 +11,6 @@ nav_order: 7
 
 | Semester    | Institution | Course / Seminar                   | Instructor             |
 | ----------- | ----------- | ---------------------------------- | ---------------------- |
-| Winter 2026 | TU Munich   | NLP Praktikum (Bachelor & Master)  | Prof. Alexander Fraser |
 | Winter 2025 | TU Munich   | NLP Praktikum                      | Prof. Alexander Fraser |
 | Spring 2025 | TU Munich   | NLP Praktikum                      | Prof. Alexander Fraser |
 | Winter 2024 | TU Munich   | NLP Praktikum                      | Prof. Alexander Fraser |
