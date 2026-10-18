@@ -78,7 +78,7 @@ ninja.data = [{
           title: '🎉 Our paper “On the Sensitivity of Instruction-tuned LLMs to Harmful Sentences in...',
           description: "",
           section: "News",},{id: "news-starting-a-research-visit-at-the-university-of-edinburgh-collaborating-with-prof-mirella-lapata-looking-forward-to-the-work-ahead",
-          title: '🚀 Starting a research visit at the University of Edinburgh 🏴, collaborating with...',
+          title: '🚀 Starting a research visit at the University of Edinburgh 🇬🇧, collaborating with...',
           description: "",
           section: "News",},{
       id: 'light-theme',
