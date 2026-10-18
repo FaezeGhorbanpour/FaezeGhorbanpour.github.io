@@ -22,4 +22,4 @@ nav_order: 7
 
 [//]: # (### Earlier Roles)
 
-**Teaching Assistant**: Machine Learning, Statistical Machine Learning, Advanced Information Retrieval, and Databases Design &mdash; Sharif University of Technology, 2018&ndash;2020.
+**Teaching Assistant**: Machine Learning, Statistical Machine Learning, Advanced Information Retrieval, and Databases Design — Sharif University of Technology, 2018&ndash;2020.

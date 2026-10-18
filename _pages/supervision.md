@@ -18,13 +18,13 @@ I supervise bachelor's and master's theses in **Natural Language Processing**, w
 
 ### Spring 2026 &ndash; TU Munich
 
-- *Master's Thesis:* Human Disagreement and Checklist-Based Interpretability for Hate Speech Detection &mdash; led to *[Decomposing and Predicting Annotation Disagreement in Harmful Content Across Languages](https://arxiv.org/abs/2610.18588)* (preprint)
+- *Master's Thesis:* Human Disagreement and Checklist-Based Interpretability for Hate Speech Detection — led to *[Decomposing and Predicting Annotation Disagreement in Harmful Content Across Languages](https://arxiv.org/abs/2610.18588)* (preprint)
 - *Master's Thesis:* Expert Agents to Generalize Harmful Content Detection
 
 ### Winter 2025 &ndash; TU Munich
 
-- *Bachelor's Thesis:* Fine-Grained Multi-Attribute Simulation of Subjective Task Annotations Using LLMs &mdash; led to *[Attribute-Based Diagnosis of LLM Alignment with Hate Speech Annotations](https://arxiv.org/abs/2605.27025)* (EMNLP 2026 Findings)
-- *Bachelor's Thesis:* Large Language Models on Persian Literature: A Category-Wise Evaluation of Exam Questions &mdash; led to *[PersLitEval: Fine-grained Benchmark and Evaluation of LLMs on Persian Literature Questions](https://arxiv.org/abs/2605.27015)* (preprint)
+- *Bachelor's Thesis:* Fine-Grained Multi-Attribute Simulation of Subjective Task Annotations Using LLMs — led to *[Attribute-Based Diagnosis of LLM Alignment with Hate Speech Annotations](https://arxiv.org/abs/2605.27025)* (EMNLP 2026 Findings)
+- *Bachelor's Thesis:* Large Language Models on Persian Literature: A Category-Wise Evaluation of Exam Questions — led to *[PersLitEval: Fine-grained Benchmark and Evaluation of LLMs on Persian Literature Questions](https://arxiv.org/abs/2605.27015)* (preprint)
 - *Bachelor's Thesis:* Explaining Intermediate Training Success in Hate Speech Detection via Dataset Similarity
 
 ### Spring 2025 &ndash; TU Munich
